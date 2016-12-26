@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "107826689164",
+    "firebase_url": "https://androidnewbie-3c88f.firebaseio.com",
+    "project_id": "androidnewbie-3c88f",
+    "storage_bucket": "androidnewbie-3c88f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107826689164:android:c3dc901edcfdf6da",
+        "android_client_info": {
+          "package_name": "mobile.texter.com.textermobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107826689164-5n244v6boq3us8i2attplqcpp2emel02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-KAjj4PPacN11-JlCwTAG6fs4VRO78PE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107826689164:android:5ed128d5cc3c7847",
+        "android_client_info": {
+          "package_name": "com.cyber.smstexter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107826689164-5n244v6boq3us8i2attplqcpp2emel02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-KAjj4PPacN11-JlCwTAG6fs4VRO78PE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107826689164:android:ad499e8f91402526",
+        "android_client_info": {
+          "package_name": "com.cyber.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107826689164-6iuftvr8ripfqgenlshapt65vbit7bfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cyber.firebasecloudmessaging",
+            "certificate_hash": "29ED99ECCB123A3706A7A5A11349649B65DE64CC"
+          }
+        },
+        {
+          "client_id": "107826689164-5n244v6boq3us8i2attplqcpp2emel02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-KAjj4PPacN11-JlCwTAG6fs4VRO78PE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107826689164-5n244v6boq3us8i2attplqcpp2emel02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
